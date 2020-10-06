@@ -7,3 +7,4 @@ These images in the dataset are used to train the model by splitting the dataset
 
 After the pretrained model and the face detector is loaded again the prediction of face mask on human face is done. For face detection the frame of the face is ectracted and preprocessed and predictions of presence of mask on the face is made.
 
+Usages: Face Recognition packages, Tensorflow is used as backend framework for Machine Learning, OpenCv library package for Computer Vision
