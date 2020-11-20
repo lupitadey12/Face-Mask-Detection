@@ -10,7 +10,7 @@ After the pretrained model and the face detector is loaded again the prediction 
 
 Usages: Face Recognition packages, Tensorflow is used as backend framework for machine learning, OpenCV library package for Computer Vision <br />
 
-**Model Constraints**
+**Model Constraints**<br />
 No constraints.<br />
 
 **Application**
