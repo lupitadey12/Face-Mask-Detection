@@ -13,5 +13,5 @@ Usages: Face Recognition packages, Tensorflow is used as backend framework for m
 # Model Constraints <br />
 No constraints.<br />
 
-# Applications: 
+# Applications
 Can be implemented in crowded places for safety purposes to ensure that majority people captured in the frame are wearing a mask. Helpful in pandemc times
