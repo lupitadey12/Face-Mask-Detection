@@ -1,5 +1,5 @@
 # Face-Mask-Detection
-**Model summary and novelty**<br />
+# Model summary and novelty <br />
 This includes detection of face mask in wild. It also provides live positive and negative samples of results along with accuracy scores. 
 
 The project involves creating a dataset having 2 classes of without mask and with mask. 686 image samples are used for the class of images without mask and for those of the  class with mask, the images are created using the code of data augmentation with the help of the 3 sample face mask images under the images folder. 
@@ -10,8 +10,8 @@ After the pretrained model and the face detector is loaded again the prediction 
 
 Usages: Face Recognition packages, Tensorflow is used as backend framework for machine learning, OpenCV library package for Computer Vision <br />
 
-**Model Constraints**<br />
+# Model Constraints <br />
 No constraints.<br />
 
-**Application**
+# Applications: 
 Can be implemented in crowded places for safety purposes to ensure that majority people captured in the frame are wearing a mask. Helpful in pandemc times
